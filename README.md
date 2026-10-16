@@ -12,7 +12,7 @@
 <p>
   <a href="https://github.com/jaisurya-dev-art?tab=followers"><img src="https://img.shields.io/github/followers/jaisurya-dev-art?label=Followers&style=flat-square&color=5a8fd6&logo=github" alt="Followers"></a>
   <a href="https://github.com/jaisurya-dev-art?tab=repositories"><img src="https://img.shields.io/badge/Open%20source-6%20projects-1f3b73?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open-source projects"></a>
-  <img src="https://komarev.com/ghpvc/?username=jaisurya-dev-art&label=Profile%20views&color=5a8fd6&style=flat-square" alt="Profile views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jaisurya-dev-art.jaisurya-dev-art&left_text=Profile%20views&left_color=%23555555&right_color=%235a8fd6" alt="Profile views">
 </p>
 
 </div>
