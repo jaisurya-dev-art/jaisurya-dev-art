@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Jaisurya Chandrasekar: Technical Artist and Gen AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1a33"/>
+      <stop offset="1" stop-color="#1f3b73"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5a8fd6" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#5a8fd6" stop-opacity="0.55"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <path d="M0 236 C 220 196 420 276 640 238 S 1010 190 1200 226 L1200 300 L0 300 Z" fill="url(#wave)"/>
+    <path d="M0 262 C 260 232 470 296 720 262 S 1040 236 1200 258 L1200 300 L0 300 Z" fill="#5a8fd6" fill-opacity="0.35"/>
+    <!-- A small bone chain: a nod to skeletal animation. -->
+    <g transform="translate(1010 70)" fill="none" stroke="#5a8fd6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+      <path d="M0 0 L60 24 L0 48 Z" fill="#5a8fd6" fill-opacity="0.25"/>
+      <path d="M60 24 L118 70 L74 84 Z" fill="#5a8fd6" fill-opacity="0.25"/>
+      <path d="M118 70 L130 136 L98 120 Z" fill="#5a8fd6" fill-opacity="0.25"/>
+      <circle cx="0" cy="24" r="7" fill="#0f1a33"/>
+      <circle cx="60" cy="24" r="7" fill="#0f1a33"/>
+      <circle cx="118" cy="70" r="7" fill="#0f1a33"/>
+    </g>
+    <text x="72" y="128" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-0.5">Jaisurya Chandrasekar</text>
+    <text x="74" y="172" fill="#b8cdf0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="500">Technical Artist  ·  Gen AI Engineer</text>
+    <rect x="74" y="194" width="64" height="4" rx="2" fill="#5a8fd6"/>
+  </g>
+</svg>

@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,55:1f3b73,100:5a8fd6&text=Jaisurya%20Chandrasekar&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Technical%20Artist%20%C2%B7%20Gen%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn">
-  <img alt="Jaisurya Chandrasekar: Technical Artist and Gen AI Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:e8eef9,55:9fbbe6,100:5a8fd6&text=Jaisurya%20Chandrasekar&fontColor=0d1117&fontSize=44&fontAlignY=36&desc=Technical%20Artist%20%C2%B7%20Gen%20AI%20Engineer&descSize=18&descAlignY=58&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Jaisurya Chandrasekar: Technical Artist and Gen AI Engineer" width="100%">
 </picture>
 
 <a href="https://github.com/jaisurya-dev-art">
@@ -23,10 +23,10 @@ I'm a **technical artist and generative AI engineer**. I build the tools that si
 their software: animation editors, pipelines that move assets between DCC apps and game engines,
 and ComfyUI nodes that turn generative workflows into production assets.
 
-- 🎞️ Building **[Rigby2D](https://github.com/jaisurya-dev-art/rigby2d)**, an open-source 2D skeletal animation editor for games, films and interactive experiences
-- 🔁 Connecting **Maya, Blender and Unreal Engine** with asset, material and model pipelines
-- 🧠 Making **generative 3D** practical: ComfyUI nodes for assets, PBR materials and model management
-- 🧩 Writing open, standards-based tooling: glTF 2.0, MCP servers for AI assistants, Python scripting
+- **Animation tools:** building **[Rigby2D](https://github.com/jaisurya-dev-art/rigby2d)**, an open-source 2D skeletal animation editor for games, films and interactive experiences
+- **Pipelines:** connecting **Maya, Blender and Unreal Engine** with asset, material and model bridges
+- **Generative 3D:** ComfyUI nodes that turn AI output into production assets, PBR materials and managed models
+- **Open standards:** glTF 2.0, MCP servers for AI assistants, Python scripting
 
 ## Featured project
 
@@ -141,11 +141,6 @@ Open-source 2D skeletal animation for games, films and interactive experiences.
 
 </div>
 
-<div align="center">
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:5a8fd6,45:1f3b73,100:0d1117">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:5a8fd6,45:9fbbe6,100:e8eef9">
-</picture>
-
-</div>
+<div align="center"><sub>Building in the open: issues, ideas and pull requests are welcome on any of these projects.</sub></div>
