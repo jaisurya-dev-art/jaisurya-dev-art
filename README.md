@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <a href="https://rigby2d.com"><img src="https://img.shields.io/badge/rigby2d.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="rigby2d.com"></a> <a href="https://www.artstation.com/jaisuryachandrasekar"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"></a> <a href="https://www.linkedin.com/in/jaisuryachandrasekar3d"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.youtube.com/@rigby2d"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://www.reddit.com/r/rigby2d/"><img src="https://img.shields.io/badge/r%2Frigby2d-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="r%2Frigby2d"></a>
+  <a href="https://rigby2d.com"><img src="https://img.shields.io/badge/rigby2d.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="rigby2d.com"></a> <a href="https://www.artstation.com/jaisuryachandrasekar"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"></a> <a href="https://www.linkedin.com/in/jaisuryachandrasekar3d"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.youtube.com/@rigby2d"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://discord.gg/PGgaTwbNH"><img src="https://img.shields.io/badge/Rigby2D%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Rigby2D Discord"></a>
 </p>
 
 I'm a technical artist and AI pipeline engineer in Bengaluru. For four years I've built the tools that keep game art moving:
@@ -22,7 +22,7 @@ I build open-source tools where 3D, 2D and generative AI meet.
     </td>
     <td width="33%" valign="top">
       <h3>2D animation</h3>
-      Rigby2D: an animation editor with runtimes for six engines and an MCP server for AI assistants.
+      Rigby2D: an animation editor with runtimes for eight engines, an MCP server for AI assistants, and its interface in English and Chinese.
     </td>
   </tr>
 </table>
@@ -37,14 +37,27 @@ I build open-source tools where 3D, 2D and generative AI meet.
   <a href="https://github.com/jaisurya-dev-art/rigby2d/stargazers"><img src="https://img.shields.io/github/stars/jaisurya-dev-art/rigby2d?style=flat-square&label=stars&color=7ba7c7&labelColor=0d1117" alt="Stars"></a> <a href="https://github.com/jaisurya-dev-art/rigby2d/releases/latest"><img src="https://img.shields.io/github/v/release/jaisurya-dev-art/rigby2d?style=flat-square&label=release&color=7ba7c7&labelColor=0d1117" alt="Latest release"></a> <a href="https://github.com/jaisurya-dev-art/rigby2d/releases"><img src="https://img.shields.io/github/downloads/jaisurya-dev-art/rigby2d/total?style=flat-square&label=downloads&color=7ba7c7&labelColor=0d1117" alt="Downloads"></a> <img src="https://img.shields.io/badge/license-MIT%20%2F%20Apache--2.0-7ba7c7?style=flat-square&labelColor=0d1117" alt="MIT or Apache-2.0">
 </p>
 
-**Free, open-source 2D skeletal animation.** Animate a character once and it plays frame for frame in Godot, Unity, Cocos
-Creator, Phaser, the web and Rust, with no runtime fees. AutoRig turns a layered PSD into a rig, DragonBones and Spine files
+**Free, open-source 2D skeletal animation.** Animate a character once and it plays frame for frame in Godot, Unity, Defold,
+Cocos Creator, Phaser, PixiJS, the web and Rust, with no runtime fees. AutoRig turns a layered PSD into a rig, DragonBones and Spine files
 open as they are, and lip-sync, physics and video rendering are built in.
+
+<p align="center">
+  <a href="https://rigby2d.com/docs/runtimes.html#godot"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/godot.svg" width="44" height="44" alt="Godot" title="Godot"></a>
+  <a href="https://rigby2d.com/docs/runtimes.html#unity"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/unity.svg" width="44" height="44" alt="Unity" title="Unity"></a>
+  <a href="https://rigby2d.com/docs/runtimes.html#defold"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/defold.svg" width="44" height="44" alt="Defold" title="Defold"></a>
+  <a href="https://rigby2d.com/docs/runtimes.html#cocos-creator"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/cocos.svg" width="44" height="44" alt="Cocos Creator" title="Cocos Creator"></a>
+  <a href="https://rigby2d.com/docs/runtimes.html#phaser"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/phaser.svg" width="44" height="44" alt="Phaser" title="Phaser"></a>
+  <a href="https://rigby2d.com/docs/runtimes.html#pixijs"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/pixijs.svg" width="44" height="44" alt="PixiJS" title="PixiJS"></a>
+  <a href="https://rigby2d.com/docs/runtimes.html#javascript"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/javascript.svg" width="44" height="44" alt="JavaScript" title="JavaScript"></a>
+  <a href="https://rigby2d.com/docs/runtimes.html#rust"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/rust.svg" width="44" height="44" alt="Rust" title="Rust"></a>
+</p>
 
 <p align="center">
   <a href="https://rigby2d.com/editor/"><b>Open the editor in your browser</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/jaisurya-dev-art/rigby2d/releases/latest"><b>Download</b></a> &nbsp;·&nbsp;
   <a href="https://rigby2d.com/docs/"><b>Docs</b></a> &nbsp;·&nbsp;
+  <a href="https://rigby2d.com/blog/"><b>Devlog</b></a> &nbsp;·&nbsp;
+  <a href="https://discord.gg/PGgaTwbNH"><b>Discord</b></a> &nbsp;·&nbsp;
   <a href="https://github.com/jaisurya-dev-art/rigby2d"><b>Source</b></a>
 </p>
 
