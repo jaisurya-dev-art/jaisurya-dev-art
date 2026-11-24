@@ -22,7 +22,7 @@ I build open-source tools where 3D, 2D and generative AI meet.
     </td>
     <td width="33%" valign="top">
       <h3>2D animation</h3>
-      Rigby2D: an animation editor with runtimes for eight engines, an MCP server for AI assistants, and its interface in English and Chinese.
+      Rigby2D: an animation editor and film renderer with runtimes for ten engines, an MCP server for AI assistants, and its interface in six languages.
     </td>
   </tr>
 </table>
@@ -38,8 +38,8 @@ I build open-source tools where 3D, 2D and generative AI meet.
 </p>
 
 **Free, open-source 2D skeletal animation.** Animate a character once and it plays frame for frame in Godot, Unity, Defold,
-Cocos Creator, Phaser, PixiJS, the web and Rust, with no runtime fees. AutoRig turns a layered PSD into a rig, DragonBones and Spine files
-open as they are, and lip-sync, physics and video rendering are built in.
+Cocos Creator, Phaser, PixiJS, Ren'Py, SDL3, the web and Rust, with no runtime fees. AutoRig turns a layered PSD into a rig, DragonBones and Spine files
+open as they are, and lip-sync, physics, a 2.5D turn and film rendering are built in.
 
 <p align="center">
   <a href="https://rigby2d.com/docs/runtimes.html#godot"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/godot.svg" width="44" height="44" alt="Godot" title="Godot"></a>
@@ -50,6 +50,7 @@ open as they are, and lip-sync, physics and video rendering are built in.
   <a href="https://rigby2d.com/docs/runtimes.html#pixijs"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/pixijs.svg" width="44" height="44" alt="PixiJS" title="PixiJS"></a>
   <a href="https://rigby2d.com/docs/runtimes.html#javascript"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/javascript.svg" width="44" height="44" alt="JavaScript" title="JavaScript"></a>
   <a href="https://rigby2d.com/docs/runtimes.html#rust"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/rust.svg" width="44" height="44" alt="Rust" title="Rust"></a>
+  <a href="https://rigby2d.com/docs/runtimes.html#renpy"><img src="https://raw.githubusercontent.com/jaisurya-dev-art/rigby2d/develop/docs/images/engines/renpy.svg" width="44" height="44" alt="Ren'Py" title="Ren'Py"></a>
 </p>
 
 <p align="center">
